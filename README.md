@@ -12,5 +12,9 @@ to be *dangerous*. This means you'll be able to use Git to track changes in
 your projects, back up data, share your work with others, and collaborate
 with programmers and other users of Git.
 
+<<<<<<< HEAD
 For more information on Git, see the
 [official Git documentation](https://git-scm.com/).
+======= Test.
+
+>>>>>>> e8c58cf04b70777be2c33a96889e46176a4e5bc4
